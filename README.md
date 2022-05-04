@@ -22,6 +22,3 @@ Bo = Guy()
 Bo.introduce()
 Bo.update_status("deep learning")
 ```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
