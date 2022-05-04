@@ -12,7 +12,7 @@ class Guy(object):
     
     # methods
     def update_status(string):
-        print("i'm working on", string, "now!")
+        print("I'm working on", string, "now!")
         
     def introduce(self):
         print("Hello, this is", self.name)
