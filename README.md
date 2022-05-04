@@ -22,3 +22,4 @@ Bo = Guy()
 Bo.introduce()
 Bo.update_status("deep learning")
 ```
+![Bo's github stats](https://github-readme-stats.vercel.app/api?username=bomlme)
