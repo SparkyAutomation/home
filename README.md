@@ -1,4 +1,4 @@
-[![Bo's GitHub Banner](./assets/banner.png)](https://braydoncoyer.dev)
+[![Bo's GitHub Banner](./assets/banner.png)](https://github.com/bomlme)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/) 
  <img src="https://komarev.com/ghpvc/?username=bomlme&label=Profile%20views&color=0e75b6&style=flat" alt="bomlme" /> 
 
@@ -7,7 +7,7 @@
 
 <h3 align="center">A professor, engineer, and author from California</h3>
 
-- 🔭 I’m currently working on **learning new things.**
+- 🔭 I’m currently working on **Time Series**
 
 - 🌱 I’m currently learning **sailing.**
 
