@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Time Series**
 
-- 🌱 I’m currently learning **sailing.**
+- 📚 I’m currently learning **sailing.**
 
 - 👯 I’m looking to collaborate on **machine learning and mechatronics.**
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 💼 Languages and Tools
+## 🛠️ Languages and Tools
 <a id=key onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/></a>&nbsp;
 <a id=key onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C " width="40" height="40"/></a>&nbsp;
 <a id=key onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ " width="40" height="40"/></a>&nbsp;
@@ -36,12 +36,12 @@
 <a id=key onclick="return func(0)">![](https://img.shields.io/badge/Software-EAGLE-informational?style=flat&logo=EAGLE&logoColor=white&color=99e6ff)</a>
 <a id=key onclick="return func(0)">![](https://img.shields.io/badge/Software-Plus+1-informational?style=flat&logo=Plus+1&logoColor=white&color=99e6ff)</a>
 
-
-## 📝 Latest Blog Posts
+<!--## 📝 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bo's Blog](https://liubo.org)
+<!-- [Bo's Blog](https://liubo.org) -->
 <!-- BLOG-POST-LIST:END -->
+
 <br>
 
 
