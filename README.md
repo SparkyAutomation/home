@@ -13,16 +13,14 @@
 
 - 👯 I’m looking to collaborate on **machine learning and mechatronics.**
 
-- 📝 I regularly write articles on **machine learning**
+- 📝 I regularly write articles on **machine learning.**
 
 <p align="left">
 </p>
 
 
-
-
 ## 💼 Languages and Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Bo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
