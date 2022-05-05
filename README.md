@@ -1,34 +1,7 @@
-[![Bo's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Bo's GitHub Banner](./assets/banner.png)](https://braydoncoyer.dev)
 This is Bo. A college professor, consultant, and author who specializes in mechatronics and machine learning.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/)
-
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Test](https://liubo.org)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-![Bo's github stats](https://github-readme-stats.vercel.app/api?username=bomlme)
-
-<br>
-
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -49,3 +22,19 @@ This is Bo. A college professor, consultant, and author who specializes in mecha
 ![](https://img.shields.io/badge/Software-EAGLE-informational?style=flat&logo=EAGLE&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-Plus+1-informational?style=flat&logo=Plus+1&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=Jupter&logoColor=white&color=99e6ff)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Test](https://liubo.org)
+<!-- BLOG-POST-LIST:END -->
+<br>
+
+
+## &#x1f4c8; GitHub Stats
+![Bo's github stats](https://github-readme-stats.vercel.app/api?username=bomlme)
+
+<br>
+
+
+
