@@ -49,7 +49,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bomlme&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bomlme&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/bomlme)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bomlme&layout=compact&theme=vision-friendly-dark)](https://github.com/bomlme/github-readme-stats)
 
