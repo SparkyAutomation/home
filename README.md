@@ -1,5 +1,6 @@
 [![Bo's GitHub Banner](./assets/banner.png)](https://braydoncoyer.dev)
-This is Bo. A college professor, consultant, and author who specializes in mechatronics and machine learning.
+
+## A college professor, consultant, and author who specializes in mechatronics and machine learning.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/)
 
