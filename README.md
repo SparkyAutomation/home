@@ -1,25 +1,4 @@
-# Hi, there!
+# Hi, there! :wave:
+I'm Bo. A college professor, Consultant, Author and Open Source Enthusiast from California. 
 
-```python
-class Guy(object):
-
-    # attributes
-    name = "Bo"
-    work = "Cal Poly"
-    home = "California"
-    hobby = "Traveling"
-    interests = "Machine Learning and Mechatronics"
-    
-    # methods
-    def update_status(string):
-        print("I'm working on", string, "now!")
-        
-    def introduce(self):
-        print("Hello, this is", self.name)
-        print("I'm into", self.interests, "and", self.hobby)
-
-Bo = Guy()
-Bo.introduce()
-Bo.update_status("deep learning")
-```
 ![Bo's github stats](https://github-readme-stats.vercel.app/api?username=bomlme)
