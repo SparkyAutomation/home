@@ -4,25 +4,26 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/)
 
-## 💼 Skills
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-LabView-informational?style=flat&logo=LabView&logoColor=white&color=4AB197)
+## 💼 Languages and Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
 <br>
-![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=e6ff99)
-![](https://img.shields.io/badge/Hardware-RaspberryPi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=e6ff99)
 ![](https://img.shields.io/badge/Hardware-NI_DAQ-informational?style=flat&logo=NI_DAQ&logoColor=white&color=e6ff99)
 ![](https://img.shields.io/badge/Hardware-UR_Robotic_arm-informational?style=flat&logo=UR_Robotic_arm&logoColor=white&color=e6ff99)
-<br>
-![](https://img.shields.io/badge/Software-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-ScikitLearn-informational?style=flat&logo=ScikitLearn&logoColor=white&color=99e6ff)
-![](https://img.shields.io/badge/Software-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-Solidworks-informational?style=flat&logo=Solidworks&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-EAGLE-informational?style=flat&logo=EAGLE&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-Plus+1-informational?style=flat&logo=Plus+1&logoColor=white&color=99e6ff)
-![](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=Jupter&logoColor=white&color=99e6ff)
+
 
 ## 📝 Latest Blog Posts
 
