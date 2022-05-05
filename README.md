@@ -17,7 +17,7 @@
 <br>
 
 ## 💼 Languages and Tools
-<a onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/></a>&nbsp;
+<a id=key onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/></a>&nbsp;
 <a onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C " width="40" height="40"/></a>&nbsp;
 <a onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ " width="40" height="40"/></a>&nbsp;
 <a onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/></a>&nbsp;
