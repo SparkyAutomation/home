@@ -1,8 +1,9 @@
 [![Bo's GitHub Banner](./assets/banner.png)](https://braydoncoyer.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/)
 
 ### A college professor, consultant, and author who specializes in mechatronics and machine learning.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/)
+
 
 ## 💼 Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Bo" alt="Bo " width="40" height="40"/>&nbsp;
