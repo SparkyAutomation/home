@@ -33,8 +33,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bomlme&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bomlme&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bomlme&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bomlme&layout=compact&theme=vision-friendly-dark)](https://github.com/bomlme/github-readme-stats)
 
 <br>
 
