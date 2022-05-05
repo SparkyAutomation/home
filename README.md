@@ -29,7 +29,7 @@
 <a href="https://github.com/bomlme"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas " width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/bomlme"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter " width="40" height="40"/></a>&nbsp;
 <br>
-<a href="https://github.com/bomlme">![](https://img.shields.io/badge/Hardware-NI_DAQ-informational?style=flat&logo=NI_DAQ&logoColor=white&color=e6ff99)</a>
+<a onclick="func(0)">![](https://img.shields.io/badge/Hardware-NI_DAQ-informational?style=flat&logo=NI_DAQ&logoColor=white&color=e6ff99)</a>
 ![](https://img.shields.io/badge/Hardware-UR_Robotic_arm-informational?style=flat&logo=UR_Robotic_arm&logoColor=white&color=e6ff99)
 ![](https://img.shields.io/badge/Software-ScikitLearn-informational?style=flat&logo=ScikitLearn&logoColor=white&color=99e6ff)
 ![](https://img.shields.io/badge/Software-Solidworks-informational?style=flat&logo=Solidworks&logoColor=white&color=99e6ff)
