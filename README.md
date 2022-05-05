@@ -1,9 +1,8 @@
 [![Bo's GitHub Banner](./assets/banner.png)](https://github.com/bomlme)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/) 
- <img src="https://komarev.com/ghpvc/?username=bomlme&label=Profile%20views&color=0e75b6&style=flat" alt="bomlme" /> 
+<img src="https://komarev.com/ghpvc/?username=bomlme&label=Profile%20views&color=0e75b6&style=flat" alt="bomlme" /> 
 
-
-
+<br>
 
 <h3 align="center">A professor, engineer, and author from California</h3>
 
@@ -15,14 +14,10 @@
 
 - 📝 I regularly write articles on **machine learning.**
 
-<p align="left">
-</p>
-
+<br>
 
 ## 💼 Languages and Tools
-<a href="google.com" style="pointer-events: none;  cursor: default;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/>
-</a>
+<a href="google.com"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/></a>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
