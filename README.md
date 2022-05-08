@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">A professor, engineer, and author from California</h3>
+<h3 align="center">An instructor, engineer, and author from California</h3>
 
 - 🔭 I’m currently working on **Time Series**
 
