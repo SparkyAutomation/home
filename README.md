@@ -1,6 +1,6 @@
-[![Bo's GitHub Banner](./assets/banner.png)](https://github.com/bomlme)
+[![Bo's GitHub Banner](./assets/banner.png)](https://github.com/mltrend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/) 
-<a id=key onclick="return func(0)"><img src="https://komarev.com/ghpvc/?username=bomlme&label=Profile%20views&color=0e75b6&style=flat" alt="bomlme" /> </a>
+<a id=key onclick="return func(0)"><img src="https://komarev.com/ghpvc/?username=mltrend&label=Profile%20views&color=0e75b6&style=flat" alt="mltrend" /> </a>
 
 <br>
 
