@@ -1,6 +1,6 @@
-[![Bo's GitHub Banner](./assets/banner.png)](https://github.com/mltrend)
+[![Bo's GitHub Banner](./assets/banner.png)](https://github.com/mltrends)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/) 
-<a id=key onclick="return func(0)"><img src="https://komarev.com/ghpvc/?username=mltrend&label=Profile%20views&color=0e75b6&style=flat" alt="mltrend" /> </a>
+<a id=key onclick="return func(0)"><img src="https://komarev.com/ghpvc/?username=mltrend&label=Profile%20views&color=0e75b6&style=flat" alt="mltrends" /> </a>
 
 <br>
 
@@ -46,7 +46,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mltrend&layout=compact&theme=vision-friendly-dark)](https://github.com/mltrend)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mltrends&layout=compact&theme=vision-friendly-dark)](https://github.com/mltrends)
 
 <br>
 
