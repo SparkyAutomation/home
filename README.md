@@ -46,7 +46,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bomlme&layout=compact&theme=vision-friendly-dark)](https://github.com/bomlme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mltrend&layout=compact&theme=vision-friendly-dark)](https://github.com/mltrend)
 
 <br>
 
