@@ -1,5 +1,5 @@
 [![Bo's GitHub Banner](./assets/banner.png)](https://github.com/mltrends)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/boliu85/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]() 
 <a id=key onclick="return func(0)"><img src="https://komarev.com/ghpvc/?username=mltrend&label=Profile%20views&color=0e75b6&style=flat" alt="mltrends" /> </a>
 
 <br>
