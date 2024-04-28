@@ -6,7 +6,7 @@
 
 <h3 align="center">A professor, engineer from California</h3>
 
-- 📝 I regularly work on **machine learning.**
+-  I regularly work on **machine learning.**
 
 <br>
 
