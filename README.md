@@ -24,7 +24,7 @@
 <a id=key onclick="return func(0)"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter " width="40" height="40"/></a>&nbsp;
 <br>
 
-<!--##  Latest Blog Posts-->
+<!--  Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- [Bo's Blog](https://liubo.org) -->
@@ -33,7 +33,7 @@
 <br>
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mltrends&layout=compact&theme=vision-friendly-dark)](https://github.com/mltrends)
 
 <br>
