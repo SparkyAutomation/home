@@ -31,10 +31,4 @@
 <br>
 
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mltrends&layout=compact&theme=vision-friendly-dark)](https://github.com/mltrends)
-
-<br>
-
-
 
